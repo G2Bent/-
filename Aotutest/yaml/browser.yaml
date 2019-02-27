@@ -1,9 +1,0 @@
-brwserType:
-  #browserName : Firefox
-  browserName : Chrome
-  #browserName : IE
-
-testUrl:
-  login_url : http://127.0.0.1:8000/login/
-  URL : http://www.baidu.com
-
